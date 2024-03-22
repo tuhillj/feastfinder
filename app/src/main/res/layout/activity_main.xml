@@ -11,8 +11,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Mickey"
+        android:text="I hate New Brasksa very much"
          />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,9 +31,17 @@
         android:layout_height="wrap_content"
         android:text="Hello Daniel"
         />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Creighton All The Way"
+        android:text="Creighton All The Way" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Mr. Stapleton"
+
         />
 </LinearLayout>
