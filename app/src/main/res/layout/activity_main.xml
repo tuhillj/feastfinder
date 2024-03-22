@@ -19,7 +19,11 @@
         android:layout_height="wrap_content"
         android:text="Hello Clayton"
         />
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kung fu panda 4 was bad"
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
